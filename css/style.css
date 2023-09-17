@@ -2,19 +2,6 @@
     display: none;
 }
 
-/* h1 {
-    color: cornflowerblue;
-    transition: color .5s ease-in-out;
-}
-
-.clicked {
-    color: green;
-}
-
-.sexy_font {
-    font-family: 'Times New Roman', Times, serif;
-} */
-
 html, body {
     margin: 0;
 }
@@ -47,6 +34,11 @@ h2, h1 {
 
 h2 {
     margin-top: 50px;
+}
+
+#login_form {
+    margin: 16px 0;
+    text-align: center;
 }
 
 #login_form input[type="text"],
